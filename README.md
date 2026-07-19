@@ -2,11 +2,11 @@
   <h1>Hi, I'm Md. Amzadullah Ratul 👋</h1>
   <p>💡 <em>Computing & Information Systems Student | AI Automation Specialist | Software Engineer</em></p>
 
-  <!-- GitHub Badges -->
+  <!-- GitHub Badges (Fixed Links) -->
   <p>
-    <img src="https://img.shields.io/badge/Linux-Arch%20%7C%20Fedora-179287?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+    <a href="https://github.com/Amzadullah"><img src="https://img.shields.io/badge/Linux-Arch%20%7C%20Fedora-179287?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a>
+    <a href="https://github.com/Amzadullah"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+    <a href="https://github.com/Amzadullah"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" /></a>
   </p>
 </div>
 
@@ -33,7 +33,8 @@ I am a passionate tech enthusiast from Bangladesh, focused on building intellige
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Amzadullah&show_icons=true&theme=tokyonight&count_private=true" alt="Ratul's GitHub Stats" />
+  <!-- Alternative Fast Loading Stats Card -->
+  <a href="https://github.com/Amzadullah"><img src="https://github-readme-stats.theme-twilight.workers.dev/api?username=Amzadullah&show_icons=true&theme=tokyonight&count_private=true" alt="Ratul's GitHub Stats" /></a>
 </div>
 
 ---
