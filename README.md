@@ -2,7 +2,7 @@
   <h1>Hi, I'm Md. Amzadullah Ratul 👋</h1>
   <p>💡 <em>Computing & Information Systems Student | AI Automation Specialist | Software Engineer</em></p>
 
-  <!-- GitHub Badges for Posh Look -->
+  <!-- GitHub Badges -->
   <p>
     <img src="https://img.shields.io/badge/Linux-Arch%20%7C%20Fedora-179287?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,7 +33,7 @@ I am a passionate tech enthusiast from Bangladesh, focused on building intellige
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amzadullah&show_icons=true&theme=tokyonight&count_private=true" alt="Ratul's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Amzadullah&show_icons=true&theme=tokyonight&count_private=true" alt="Ratul's GitHub Stats" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ I am a passionate tech enthusiast from Bangladesh, focused on building intellige
   <a href="https://amzadullah.app">
     <img src="https://img.shields.io/badge/Portfolio-amzadullah.app-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
- <a href="https://linkedin.com/in/amzadullah-ratul-62a889376">
+  <a href="https://linkedin.com/in/amzadullah-ratul-62a889376">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
