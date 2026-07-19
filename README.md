@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Md. Amzadullah Ratul 👋
 
-<!--
-**Amzadullah/Amzadullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Computing and Information Systems student and developer.
 
-Here are some ideas to get you started:
+- 🌍 I am based in Bangladesh
+- 💻 Tech Stack: Python, Linux (Arch/Fedora), React Native, n8n Automation
+- 🚀 Current Projects: DIU Campus Lost and Found App & RAG Systems
+- 💼 Working as an AI Automation Specialist and Software Engineer on Upwork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills & Tools
+- **Languages & Frameworks:** Python, HTML, CSS, React Native
+- **Automation & AI:** n8n, Gemini APIs, RAG Systems
+- **OS & Environment:** Arch Linux, Fedora, Debian (KDE Plasma / Hyprland)
+
+📬 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Portfolio](https://amzadullah.app)
