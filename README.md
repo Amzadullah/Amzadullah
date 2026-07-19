@@ -40,7 +40,7 @@ I'm a passionate tech enthusiast from Bangladesh, focused on building intelligen
 
 <div align="center">
   <a href="https://amzadullah.app">
-    <img src="https://img.shields.io/badge/Portfolio-amzadullah.app-000000.svg?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/amzadullah-ratul-62a889376">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
