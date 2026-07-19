@@ -40,7 +40,7 @@ I'm a passionate tech enthusiast from Bangladesh, focused on building intelligen
 
 <div align="center">
   <a href="https://github.com/Amzadullah">
-    <img src="https://github-readme-stats.theme-twilight.workers.dev/api?username=Amzadullah&show_icons=true&theme=tokyonight&count_private=true" alt="Ratul's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Amzadullah&show_icons=true&theme=tokyonight" alt="Ratul's GitHub Stats" />
   </a>
 </div>
 
@@ -50,7 +50,7 @@ I'm a passionate tech enthusiast from Bangladesh, focused on building intelligen
 
 <div align="center">
   <a href="https://amzadullah.app">
-    <img src="https://img.shields.io/badge/Portfolio-amzadullah.app-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-amzadullah.app-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/amzadullah-ratul-62a889376">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
