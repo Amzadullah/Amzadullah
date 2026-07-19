@@ -5,9 +5,10 @@
 ### 💡 Computing & Information Systems Student | AI Automation Specialist | Software Engineer
 
 <p>
-  <a href="https://github.com/Amzadullah"><img src="https://img.shields.io/badge/Linux-Arch%20%7C%20Fedora-179287?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a>
-  <a href="https://github.com/Amzadullah"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://github.com/Amzadullah"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" /></a>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
 </p>
 
 </div>
@@ -52,6 +53,6 @@ I'm a passionate tech enthusiast from Bangladesh, focused on building intelligen
     <img src="https://img.shields.io/badge/Portfolio-amzadullah.app-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/amzadullah-ratul-62a889376">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
